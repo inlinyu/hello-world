@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+I Love Java!
+I Love Coding!
